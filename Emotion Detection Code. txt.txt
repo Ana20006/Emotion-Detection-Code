@@ -1,0 +1,4 @@
+In the links below you will be able to find the code of the Emotion Detection in images.
+https://colab.research.google.com/drive/1DOvXJZRkjfKfF9oUpCZXSU3hPG3g1h-l?usp=sharing
+
+https://www.youtube.com/watch?v=AP9e4ny_KHc
